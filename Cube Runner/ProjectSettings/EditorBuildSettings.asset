@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 1b457c2cf70135e43a98d400a3a56502
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Infinite.unity
+    guid: 755f169ea1ce9d4429209fc12d042cc2
+  - enabled: 1
+    path: Assets/Scenes/Dead.unity
+    guid: e22211844351ec447a959f88cc36f436
+  - enabled: 1
+    path: Assets/Scenes/Challenge 1.unity
+    guid: ee0feddfa447c2045897be3434312dcd
+  - enabled: 1
+    path: Assets/Scenes/Challenges.unity
+    guid: 498c932b37f16594d952f62d21f39140
+  m_configObjects: {}
